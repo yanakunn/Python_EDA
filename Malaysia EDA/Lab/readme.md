@@ -8,7 +8,7 @@
 This project is about Malaysia Air Pollution exploratory data analysis. This dataset contains geolocated data regarding the following pollutants: Nitrogen Dioxide, Ozone, Carbon Monoxide, and Particulate Matter. It enables us to analyze the air pollution levels in Malaysia based on the AQI value and category. The dataset consists of AQI values of different pollutants for many cities all over the world. This dataset has 12 columns and 23463 rows.
 
 
-**[Global Air Pollution Dataset Indicator]**(https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset)
+**[Global Air Pollution Dataset Indicator}(https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset)**
 
 Item | Description
 -----|-------------
