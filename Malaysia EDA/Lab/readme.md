@@ -22,5 +22,5 @@ Ozone AQI Category | AQI category of Ozone of the city
 NO2 AQI Value | AQI value of Nitrogen Dioxide of the city
 NO2 AQI Category | AQI category of Nitrogen Dioxide of the city
 PM2.5 AQI Value | AQI value of Particulate Matter with a diameter of 2.5 micrometers or less of the city
-PM2.5 AQI Category : AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city
+PM2.5 AQI Category | AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city
    
